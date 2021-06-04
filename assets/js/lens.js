@@ -1,4 +1,24 @@
 var main = (function ($) {
+
+    const generateImages = (category, size = 1) => {
+        let result = '';
+        for (let i = 1; i <= size; i += 1) {
+            const imgName = `images/Zoom/${category}/Zoom_${category}_${String(i).padStart(2, "0")}.jpg`;
+            result = `
+            ${result}
+            <article>
+                <a class="thumbnail" href="${imgName}">
+                    <img src="${imgName}" alt=""/>
+                </a>
+                <h2>Diam tempus accumsan</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </article>`
+        }
+
+        return result
+
+    }
+
     var _ = {
 
         /**
@@ -139,6 +159,12 @@ var main = (function ($) {
 
             // Thumbnails.
             _.$thumbnails = $('#thumbnails');
+
+            const params = new URLSearchParams(document.location.search.substring(1));
+            const category = params.get("category");
+            const size = parseInt(params.get("size") || 1, 10);
+
+            $(generateImages(category, size)).appendTo(_.$thumbnails);
 
             // Viewer.
             _.$viewer = $(
