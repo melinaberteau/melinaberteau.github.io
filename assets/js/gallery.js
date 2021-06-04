@@ -1,6 +1,7 @@
 var main = (function ($) {
 
-    const generateImages = (category, size = 1) => {
+    const generateImages = (category) => {
+        const size = config[category].gallerie.nombre;
         let result = '';
         for (let i = 1; i <= size; i += 1) {
             const imgName = `images/Zoom/${category}/Zoom_${category}_${String(i).padStart(2, "0")}.jpg`;
@@ -162,9 +163,15 @@ var main = (function ($) {
 
             const params = new URLSearchParams(document.location.search.substring(1));
             const category = params.get("category");
-            const size = parseInt(params.get("size") || 1, 10);
 
-            $(generateImages(category, size)).appendTo(_.$thumbnails);
+            const head = `
+                <h1>${config[category].gallerie.titre}</h1>
+                <p>${config[category].gallerie.sousTitre}</p>
+            `;
+
+            $(head).appendTo($('#header'));
+
+            $(generateImages(category)).appendTo(_.$thumbnails);
 
             // Viewer.
             _.$viewer = $(

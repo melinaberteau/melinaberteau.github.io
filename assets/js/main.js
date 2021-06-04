@@ -1,4 +1,22 @@
 (function ($) {
+    const generateThumbs = () => {
+        const result = Object.keys(config).map((key) => {
+            return `
+            <article class="${config[key].vignette.style}">
+                        <span class="image">
+                            <img src="images/VignettesCarrees/${config[key].vignette.image}" alt=""/>
+                        </span>
+                <a href="gallery.html?category=${key}">
+                    <h2>${config[key].vignette.titre}</h2>
+                    <div class="content">
+                        <p>${config[key].vignette.sousTitre}</p>
+                    </div>
+                </a>
+            </article>
+            `;
+        });
+        return result.join(' ');
+    }
 
     var $window = $(window),
         $body = $('body');
@@ -13,8 +31,12 @@
         xxsmall: [null, '360px']
     });
 
+
+
     // Play initial animations on page load.
     $window.on('load', function () {
+        var $vignettes = $('#vignettes');
+        $(generateThumbs()).appendTo($vignettes);
         window.setTimeout(function () {
             $body.removeClass('is-preload');
         }, 100);
