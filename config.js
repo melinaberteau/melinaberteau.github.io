@@ -2,7 +2,7 @@ var config = {
      Textile: {
         vignette: {
             image: "VignetteCarree_Totebag2019.jpg",
-            style: "style7",
+            style: "gris",
             titre: "Textile",
             sousTitre: "Créations de motifs à destination de sérigraphies textiles"
         },
@@ -15,7 +15,7 @@ var config = {
     Indienne: {
         vignette: {
             image: "VignetteCarree_Indienne.jpg",
-            style: "style2",
+            style: "cyan",
             titre: "Illustrations",
             sousTitre: "Mes différents travaux de créations loisir"
         },
@@ -28,7 +28,7 @@ var config = {
     Comprendre: {
         vignette: {
             image: "VignetteCarree_Comprendre.jpg",
-            style: "style5",
+            style: "violet",
             titre: "Édition",
             sousTitre: "Principe de collection"
         },

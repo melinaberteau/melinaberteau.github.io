@@ -11,8 +11,8 @@ var main = (function ($) {
                 <a class="thumbnail" href="${imgName}">
                     <img src="${imgName}" alt=""/>
                 </a>
-                <h2>Diam tempus accumsan</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+<!--                <h2>Diam tempus accumsan</h2>-->
+<!--                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>-->
             </article>`
         }
 
