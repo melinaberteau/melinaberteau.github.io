@@ -25,6 +25,19 @@ var config = {
             nombre: 3,
         }
     },
+    Totebag2021: {
+        vignette: {
+            image: "VignetteCarree_Totebag2021.jpg",
+            style: "jaune",
+            titre: "Textile",
+            sousTitre: "Création de motifs pour sérigraphie"
+        },
+        gallerie: {
+            titre: "Textile",
+            sousTitre: "Création de motifs pour sérigraphie",
+            nombre: 2,
+        }
+    },
     Comprendre: {
         vignette: {
             image: "VignetteCarree_Comprendre.jpg",
