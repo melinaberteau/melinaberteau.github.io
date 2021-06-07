@@ -50,5 +50,18 @@ var config = {
             sousTitre: "Principe de collection",
             nombre: 4,
         }
+    },
+    Maccrame: {
+        vignette: {
+            image: "VignetteCarree_Maccrame.jpg",
+            style: "jaune",
+            titre: "Maccramé",
+            sousTitre: "Suspension de plante"
+        },
+        gallerie: {
+            titre: "Maccramé",
+            sousTitre: "Réalisation de suspensions de plante et de tenture en maccramé",
+            nombre: 3,
+        }
     }
 }
