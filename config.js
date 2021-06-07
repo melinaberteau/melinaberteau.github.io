@@ -12,9 +12,9 @@ var config = {
             nombre: 1,
         }
     },
-     Totebag2019: {
+     Textile: {
         vignette: {
-            image: "VignetteCarree_Totebag2019.jpg",
+            image: "VignetteCarree_Textile.jpg",
             style: "gris",
             titre: "Textile",
             sousTitre: "Création de motifs pour sérigraphie"
@@ -22,7 +22,7 @@ var config = {
         gallerie: {
             titre: "Textile",
             sousTitre: "Création de motifs pour sérigraphie",
-            nombre: 2,
+            nombre: 4,
         }
     },
     Indienne: {
@@ -38,19 +38,6 @@ var config = {
             nombre: 3,
         }
     },
-    GravuresPoche: {
-        vignette: {
-            image: "VignetteCarree_GravuresPoche.jpg",
-            style: "jaune",
-            titre: "Gravure",
-            sousTitre: "Création de motifs pour gravure"
-        },
-        gallerie: {
-            titre: "Gravure",
-            sousTitre: "Création de motifs pour gravure",
-            nombre: 2,
-        }
-    },
     Comprendre: {
         vignette: {
             image: "VignetteCarree_Comprendre.jpg",
@@ -62,6 +49,19 @@ var config = {
             titre: "Édition",
             sousTitre: "Principe de collection",
             nombre: 4,
+        }
+    },
+     GravuresPoche: {
+        vignette: {
+            image: "VignetteCarree_GravuresPoche.jpg",
+            style: "jaune",
+            titre: "Gravure",
+            sousTitre: "Création de motifs pour gravure"
+        },
+        gallerie: {
+            titre: "Gravure",
+            sousTitre: "Création de motifs pour gravure",
+            nombre: 2,
         }
     }
 }
