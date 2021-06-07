@@ -1,6 +1,19 @@
 var config = {
      Textile: {
         vignette: {
+            image: "VignetteCarree_GravuresTable.jpg",
+            style: "rouge",
+            titre: "Gravure",
+            sousTitre: "Création de motifs pour gravure"
+        },
+        gallerie: {
+            titre: "Gravure",
+            sousTitre: "Création de motifs pour gravure",
+            nombre: 1,
+        }
+    },
+     Textile: {
+        vignette: {
             image: "VignetteCarree_Totebag2019.jpg",
             style: "gris",
             titre: "Textile",
