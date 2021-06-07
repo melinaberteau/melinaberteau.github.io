@@ -16,12 +16,12 @@ var config = {
         vignette: {
             image: "VignetteCarree_Indienne.jpg",
             style: "cyan",
-            titre: "Illustrations",
-            sousTitre: "Mes différents travaux de créations loisir"
+            titre: "Illustration",
+            sousTitre: "Projet perso"
         },
         gallerie: {
             titre: "Illustrations",
-            sousTitre: "Mes différents travaux de créations loisir",
+            sousTitre: "Projet perso",
             nombre: 3,
         }
     },
