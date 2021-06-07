@@ -1,15 +1,15 @@
 var config = {
-     GravuresTable: {
+     Gravures: {
         vignette: {
-            image: "VignetteCarree_GravuresTable.jpg",
+            image: "VignetteCarree_Gravures.jpg",
             style: "rouge",
-            titre: "Gravure",
+            titre: "Gravures",
             sousTitre: "Création de motifs pour gravure"
         },
         gallerie: {
-            titre: "Gravure",
-            sousTitre: "Création de motifs pour gravure",
-            nombre: 1,
+            titre: "Gravures",
+            sousTitre: "Création de motifs pour gravure sur métal. Ici sont présentées les collections de couteaux de poche et de couteaux de table de la marque Deejo",
+            nombre: 6,
         }
     },
      Textile: {
@@ -21,21 +21,21 @@ var config = {
         },
         gallerie: {
             titre: "Textile",
-            sousTitre: "Création de motifs pour sérigraphie",
+            sousTitre: "Création de motifs pour sérigraphie sur totebag pour la marque de coutellerie Deejo",
             nombre: 4,
         }
     },
-    Indienne: {
+    Illustrations: {
         vignette: {
-            image: "VignetteCarree_Indienne.jpg",
+            image: "VignetteCarree_Illustrations.jpg",
             style: "cyan",
-            titre: "Illustration",
-            sousTitre: "Projet perso"
+            titre: "Illustrations",
+            sousTitre: "Projets perso"
         },
         gallerie: {
             titre: "Illustrations",
-            sousTitre: "Projet perso",
-            nombre: 3,
+            sousTitre: "Projets personnels d'illustration",
+            nombre: 8,
         }
     },
     Comprendre: {
@@ -49,19 +49,6 @@ var config = {
             titre: "Édition",
             sousTitre: "Principe de collection",
             nombre: 4,
-        }
-    },
-     GravuresPoche: {
-        vignette: {
-            image: "VignetteCarree_GravuresPoche.jpg",
-            style: "jaune",
-            titre: "Gravure",
-            sousTitre: "Création de motifs pour gravure"
-        },
-        gallerie: {
-            titre: "Gravure",
-            sousTitre: "Création de motifs pour gravure",
-            nombre: 2,
         }
     }
 }
