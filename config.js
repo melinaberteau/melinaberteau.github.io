@@ -38,16 +38,16 @@ var config = {
             nombre: 3,
         }
     },
-    Totebag2021: {
+    GravuresPoche: {
         vignette: {
-            image: "VignetteCarree_Totebag2021.jpg",
+            image: "VignetteCarree_GravuresPoche.jpg",
             style: "jaune",
-            titre: "Textile",
-            sousTitre: "Création de motifs pour sérigraphie"
+            titre: "Gravure",
+            sousTitre: "Création de motifs pour gravure"
         },
         gallerie: {
-            titre: "Textile",
-            sousTitre: "Création de motifs pour sérigraphie",
+            titre: "Gravure",
+            sousTitre: "Création de motifs pour gravure",
             nombre: 2,
         }
     },
