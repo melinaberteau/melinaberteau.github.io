@@ -2,7 +2,7 @@ var config = {
      Gravures: {
         vignette: {
             image: "VignetteCarree_Gravures.jpg",
-            style: "rouge",
+            style: "outremer",
             titre: "Gravures",
             sousTitre: "Création de motifs pour gravure"
         },
