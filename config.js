@@ -8,7 +8,7 @@ var config = {
         },
         gallerie: {
             titre: "Gravures",
-            sousTitre: "Création de motifs pour gravure sur métal. Ici sont présentées les collections de couteaux de poche et de couteaux de table de la marque Deejo",
+            sousTitre: "Création de motifs pour gravure.  <br /> Ici sont présentées les collections <br /> de couteaux de poche et de couteaux de table de la marque Deejo",
             nombre: 6,
         }
     },
@@ -43,7 +43,7 @@ var config = {
             image: "VignetteCarree_Comprendre.jpg",
             style: "violet",
             titre: "Couvertures <br /> de livres",
-            sousTitre: "Principes de collection et Hors collection"
+            sousTitre: "Principes de collection <br /> et livres hors collection"
         },
         gallerie: {
             titre: "Édition",
