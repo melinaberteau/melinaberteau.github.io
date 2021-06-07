@@ -4,11 +4,11 @@ var config = {
             image: "VignetteCarree_Totebag2019.jpg",
             style: "gris",
             titre: "Textile",
-            sousTitre: "Créations de motifs à destination de sérigraphies textiles"
+            sousTitre: "Création de motifs pour sérigraphie"
         },
         gallerie: {
             titre: "Textile",
-            sousTitre: "Créations de motifs à destination de sérigraphies textiles",
+            sousTitre: "Création de motifs pour sérigraphie",
             nombre: 2,
         }
     },
@@ -38,4 +38,16 @@ var config = {
             nombre: 4,
         }
     },
+    Textile: {
+        vignette: {
+            image: "VignetteCarree_Totebag2021.jpg",
+            style: "jaune",
+            titre: "Textile",
+            sousTitre: "Création de motifs pour sérigraphie"
+        },
+        gallerie: {
+            titre: "Textile",
+            sousTitre: "Créations de motifs à destination de sérigraphies textiles",
+            nombre: 2,
+        }
 }
