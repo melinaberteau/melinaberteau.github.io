@@ -42,12 +42,12 @@ var config = {
         vignette: {
             image: "VignetteCarree_Comprendre.jpg",
             style: "violet",
-            titre: "Édition",
-            sousTitre: "Principe de collection"
+            titre: "Couvertures de livres",
+            sousTitre: "Principes de collection et Hors collection"
         },
         gallerie: {
             titre: "Édition",
-            sousTitre: "Principe de collection",
+            sousTitre: "Couvertures de livres",
             nombre: 4,
         }
     },
