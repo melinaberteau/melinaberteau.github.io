@@ -63,5 +63,18 @@ var config = {
             sousTitre: "Réalisation de suspensions de plante et de tenture en maccramé",
             nombre: 3,
         }
-    }
+    },
+    Catalogue: {
+        vignette: {
+            image: "VignetteCarree_Catalogue.jpg",
+            style: "rouge",
+            titre: "Édition",
+            sousTitre: "Réalisation du catalogue Deejo 2021"
+        },
+        gallerie: {
+            titre: "Édition",
+            sousTitre: "Réalisation du catalogue Deejo 2021",
+            nombre: 4,
+        }
+    },
 }
