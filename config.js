@@ -1,5 +1,5 @@
 var config = {
-     Textile: {
+     GravuresTable: {
         vignette: {
             image: "VignetteCarree_GravuresTable.jpg",
             style: "rouge",
@@ -12,7 +12,7 @@ var config = {
             nombre: 1,
         }
     },
-     Textile: {
+     Totebag2019: {
         vignette: {
             image: "VignetteCarree_Totebag2019.jpg",
             style: "gris",
