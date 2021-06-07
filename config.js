@@ -37,5 +37,5 @@ var config = {
             sousTitre: "Principe de collection",
             nombre: 4,
         }
-    },
+    }
 }
