@@ -103,4 +103,17 @@ var config = {
             nombre: 2,
         }
     },
+    PLV: {
+        vignette: {
+            image: "VignetteCarree_PLV.jpg",
+            style: "gris",
+            titre: "PLV",
+            sousTitre: "Kakemono Forex Bâches"
+        },
+        gallerie: {
+            titre: "PLV",
+            sousTitre: "Création de forex pour revendeurs de la marque Deejo",
+            nombre: 2,
+        }
+    },
 }
