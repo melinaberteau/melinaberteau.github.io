@@ -51,16 +51,16 @@ var config = {
             nombre: 4,
         }
     },
-    Maccrame: {
+    Macrame: {
         vignette: {
-            image: "VignetteCarree_Maccrame.jpg",
+            image: "VignetteCarree_Macrame.jpg",
             style: "jaune",
-            titre: "Maccramé",
+            titre: "Macramé",
             sousTitre: "Suspension de plante"
         },
         gallerie: {
-            titre: "Maccramé",
-            sousTitre: "Réalisation de suspensions de plante et de tenture en maccramé",
+            titre: "Macramé",
+            sousTitre: "Réalisation de suspensions de plante et de tenture en macramé",
             nombre: 3,
         }
     },
@@ -75,6 +75,19 @@ var config = {
             titre: "Édition",
             sousTitre: "Réalisation du catalogue Deejo 2021",
             nombre: 4,
+        }
+    },
+    Packaging: {
+        vignette: {
+            image: "VignetteCarree_Packaging.jpg",
+            style: "cyan",
+            titre: "Packaging",
+            sousTitre: "Identité visuelle"
+        },
+        gallerie: {
+            titre: "Packaging",
+            sousTitre: "Réalisation de packagings pour la marque Akinod",
+            nombre: 2,
         }
     },
 }
