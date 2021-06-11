@@ -8,7 +8,7 @@ var config = {
         },
         gallerie: {
             titre: "Gravures",
-            sousTitre: "Création de motifs pour gravure.  <br /> Ici sont présentées les collections <br /> de couteaux de poche et de couteaux de table de la marque Deejo",
+            sousTitre: "Création de motifs pour gravure.  <br /> Ici sont présentées les collections <br /> de couteaux de poche et de couteaux <br /> de table de la marque Deejo",
             nombre: 6,
         }
     },
@@ -47,7 +47,7 @@ var config = {
         },
         gallerie: {
             titre: "Édition",
-            sousTitre: "Couvertures de livres",
+            sousTitre: "Principe de collection <br /> pour la maison d'édition <br /> Armand Colin",
             nombre: 4,
         }
     },
@@ -82,11 +82,24 @@ var config = {
             image: "VignetteCarree_Packaging.jpg",
             style: "cyan",
             titre: "Packaging",
-            sousTitre: "Identité visuelle"
+            sousTitre: "Réalisation de packagings <br /> pour la marque Akinod"
         },
         gallerie: {
             titre: "Packaging",
-            sousTitre: "Réalisation de packagings pour la marque Akinod",
+            sousTitre: "Réalisation de packagings <br /> pour la marque Akinod",
+            nombre: 2,
+        }
+    },
+    AtelierDeejo: {
+        vignette: {
+            image: "VignetteCarree_AtelierDeejo.jpg",
+            style: "rouge",
+            titre: "Habillage <br /> de boutique",
+            sousTitre: "Deejo - Paris"
+        },
+        gallerie: {
+            titre: "Habillage <br /> de boutique",
+            sousTitre: "Réalisation d'une fresque murale <br /> pour la boutique Deejo",
             nombre: 2,
         }
     },
