@@ -1190,10 +1190,6 @@ body.is-preload-1 #main {
 }
 
 #viewer .slide .caption {
-    background-image: -moz-linear-gradient(bottom, rgba(16, 16, 16, 0.75), rgba(16, 16, 16, 0.25) 80%, rgba(16, 16, 16, 0));
-    background-image: -webkit-linear-gradient(bottom, rgba(16, 16, 16, 0.75), rgba(16, 16, 16, 0.25) 80%, rgba(16, 16, 16, 0));
-    background-image: -ms-linear-gradient(bottom, rgba(16, 16, 16, 0.75), rgba(16, 16, 16, 0.25) 80%, rgba(16, 16, 16, 0));
-    background-image: linear-gradient(bottom, rgba(16, 16, 16, 0.75), rgba(16, 16, 16, 0.25) 80%, rgba(16, 16, 16, 0));
     padding: 2em 2em 0.75em 2em;
     position: absolute;
     bottom: 0;
@@ -1331,6 +1327,7 @@ body.is-preload-2 #viewer .slide {
     }
 
     #viewer .inner .toggle {
+        filter: invert(15%);
         background-image: url("images/close-small.svg") !important;
         background-size: 32px 32px;
         display: block;
@@ -1344,4 +1341,20 @@ body.is-preload-2 #viewer .slide {
         opacity: 1;
     }
 
+    #viewer .slide {
+        background: white;
+    }
+
+    #viewer .slide .image {
+        background-size: contain;
+    }
+
+    #viewer .inner:before {
+        background-image: none;
+    }
+
+    #viewer .inner .nav-next,
+    #viewer .inner .nav-previous {
+        filter: invert(15%);
+    }
 }
