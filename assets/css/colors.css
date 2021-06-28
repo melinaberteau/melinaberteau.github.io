@@ -27,9 +27,13 @@
 }
 
 .tiles article.jaune > .image:before {
-    background-color: #cda924;
+    background-color: #fbd75a;
 }
 
 .tiles article.orange > .image:before {
     background-color: #e76910;
+}
+
+.tiles article.turquoise > .image:before {
+    background-color: #2daa9a;
 }
