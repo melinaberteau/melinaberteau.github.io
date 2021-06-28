@@ -41,7 +41,7 @@ var config = {
     Comprendre: {
         vignette: {
             image: "VignetteCarree_Comprendre.jpg",
-            style: "violet",
+            style: "cyan",
             titre: "Couvertures <br /> de livres",
             sousTitre: "Principes de collection <br /> et livres hors collection"
         },
@@ -80,7 +80,7 @@ var config = {
     Packaging: {
         vignette: {
             image: "VignetteCarree_Packaging.jpg",
-            style: "cyan",
+            style: "outremer",
             titre: "Packaging",
             sousTitre: "Réalisation de packagings <br /> pour la marque Akinod"
         },
@@ -93,7 +93,7 @@ var config = {
     AtelierDeejo: {
         vignette: {
             image: "VignetteCarree_AtelierDeejo.jpg",
-            style: "violet",
+            style: "cyan",
             titre: "Habillage <br /> de boutique",
             sousTitre: "Deejo - Paris"
         },
