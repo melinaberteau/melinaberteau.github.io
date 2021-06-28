@@ -2,7 +2,7 @@ var config = {
      Gravures: {
         vignette: {
             image: "VignetteCarree_Gravures.jpg",
-            style: "rouge",
+            style: "outremer",
             titre: "Gravures",
             sousTitre: "Création de motifs pour gravure"
         },
@@ -67,7 +67,7 @@ var config = {
     Catalogue: {
         vignette: {
             image: "VignetteCarree_Catalogue.jpg",
-            style: "rose",
+            style: "outremer",
             titre: "Édition",
             sousTitre: "Réalisation du catalogue Deejo 2021"
         },
@@ -93,7 +93,7 @@ var config = {
     AtelierDeejo: {
         vignette: {
             image: "VignetteCarree_AtelierDeejo.jpg",
-            style: "rouge",
+            style: "violet",
             titre: "Habillage <br /> de boutique",
             sousTitre: "Deejo - Paris"
         },
