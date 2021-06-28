@@ -164,11 +164,7 @@ var main = (function ($) {
             const params = new URLSearchParams(document.location.search.substring(1));
             const category = params.get("category");
 
-            const head = `
-                <h1>${config[category].gallerie.titre}</h1>
-                <p>${config[category].gallerie.sousTitre}</p>
-            `;
-
+            const head = `<h1>${config[category].gallerie.titre}</h1>`;
             $(head).appendTo($('#header'));
 
             $(generateImages(category)).appendTo(_.$thumbnails);
@@ -570,6 +566,18 @@ var main = (function ($) {
             newSlide.$parent
                 .addClass('active')
                 .focus();
+
+            const params = new URLSearchParams(document.location.search.substring(1));
+            const category = params.get("category");
+
+            const subtitleKey = `Zoom_${category}_${String(index+1).padStart(2, "0")}`;
+            const subtitle = config[category].gallerie.sousTitre[subtitleKey];
+
+            const head = `
+                <h1>${config[category].gallerie.titre}</h1>
+                <p>${subtitle ? subtitle : ""}</p>
+            `;
+            $('#header').html(head);
 
             // Slide.
             var f = function () {

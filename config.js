@@ -8,7 +8,10 @@ var config = {
         },
         gallerie: {
             titre: "Gravures",
-            sousTitre: "Création de motifs pour gravure.  <br /> Ici sont présentées les collections <br /> de couteaux de poche et de couteaux <br /> de table de la marque Deejo",
+            sousTitre: {
+                Zoom_Gravures_01 : "Création de motifs pour gravure.  <br /> Ici sont présentées les collections <br /> de couteaux de poche et de couteaux <br /> de table de la marque Deejo",
+                Zoom_Gravures_02 : "Création de motifs pour gravure.  <br /> Ici la collection \"Grand Siècle\"",
+            },
             nombre: 6,
         }
     },
@@ -21,7 +24,9 @@ var config = {
         },
         gallerie: {
             titre: "PLV",
-            sousTitre: "Création de forex pour revendeurs de la marque Deejo",
+            sousTitre: {
+                Zoom_PLV_01 : "Création de forex pour revendeurs de la marque Deejo",
+            },
             nombre: 2,
         }
     },
@@ -34,7 +39,9 @@ var config = {
         },
         gallerie: {
             titre: "Illustrations",
-            sousTitre: "Projets personnels d'illustration",
+            sousTitre: {
+                Zoom_Illustrations_01 : "Projets personnels d'illustration",
+            },
             nombre: 8,
         }
     },
@@ -47,7 +54,9 @@ var config = {
         },
         gallerie: {
             titre: "Édition",
-            sousTitre: "Principe de collection <br /> pour la maison d'édition <br /> Armand Colin",
+            sousTitre: {
+                Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> Armand Colin",
+            },
             nombre: 4,
         }
     },
@@ -60,7 +69,9 @@ var config = {
         },
         gallerie: {
             titre: "Macramé",
-            sousTitre: "Réalisation de suspensions de plante et de tenture en macramé",
+            sousTitre: {
+                Zoom_Macrame_01 : "Réalisation de suspensions de plante et de tenture en macramé",
+            },
             nombre: 3,
         }
     },
@@ -73,7 +84,9 @@ var config = {
         },
         gallerie: {
             titre: "Édition",
-            sousTitre: "Réalisation du catalogue Deejo 2021",
+            sousTitre: {
+                Zoom_Catalogue_01 : "Réalisation du catalogue Deejo 2021",
+            },
             nombre: 4,
         }
     },
@@ -86,7 +99,9 @@ var config = {
         },
         gallerie: {
             titre: "Packaging",
-            sousTitre: "Réalisation de packagings <br /> pour la marque Akinod",
+            sousTitre: {
+                Zoom_Packaging_01 : "Réalisation de packagings <br /> pour la marque Akinod",
+            },
             nombre: 2,
         }
     },
@@ -99,7 +114,9 @@ var config = {
         },
         gallerie: {
             titre: "Habillage <br /> de boutique",
-            sousTitre: "Réalisation d'une fresque murale <br /> pour la boutique Deejo",
+            sousTitre: {
+                Zoom_AtelierDeejo_01 : "Réalisation d'une fresque murale <br /> pour la boutique Deejo",
+            },
             nombre: 2,
         }
     },
@@ -112,7 +129,9 @@ var config = {
         },
         gallerie: {
             titre: "Textile",
-            sousTitre: "Création de motifs pour sérigraphie sur totebag pour la marque de coutellerie Deejo",
+            sousTitre: {
+                Zoom_Textile_01 : "Création de motifs pour sérigraphie sur totebag pour la marque de coutellerie Deejo",
+            },
             nombre: 4,
         }
     },
