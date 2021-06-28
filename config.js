@@ -15,7 +15,7 @@ var config = {
      Textile: {
         vignette: {
             image: "VignetteCarree_Textile.jpg",
-            style: "gris",
+            style: "turquoise",
             titre: "Textile",
             sousTitre: "Création de motifs pour sérigraphie"
         },
