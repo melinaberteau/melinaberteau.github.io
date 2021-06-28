@@ -1,0 +1,35 @@
+.tiles article.rose > .image:before {
+    background-color: #f2849e;
+}
+
+.tiles article.cyan > .image:before {
+    background-color: #7ecaf6;
+}
+
+.tiles article.vert > .image:before {
+    background-color: #7bd0c1;
+}
+
+.tiles article.rouge > .image:before {
+    background-color: #c75b9b;
+}
+
+.tiles article.violet > .image:before {
+    background-color: #ae85ca;
+}
+
+.tiles article.outremer > .image:before {
+    background-color: #8499e7;
+}
+
+.tiles article.gris > .image:before {
+    background-color: #b3b3b3;
+}
+
+.tiles article.jaune > .image:before {
+    background-color: #cda924;
+}
+
+.tiles article.orange > .image:before {
+    background-color: #e76910;
+}
