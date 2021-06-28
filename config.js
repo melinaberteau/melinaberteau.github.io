@@ -12,17 +12,17 @@ var config = {
             nombre: 6,
         }
     },
-     Textile: {
+     PLV: {
         vignette: {
-            image: "VignetteCarree_Textile.jpg",
+            image: "VignetteCarree_PLV.jpg",
             style: "gris",
-            titre: "Textile",
-            sousTitre: "Création de motifs pour sérigraphie"
+            titre: "PLV",
+            sousTitre: "Kakemono Forex Bâches"
         },
         gallerie: {
-            titre: "Textile",
-            sousTitre: "Création de motifs pour sérigraphie sur totebag pour la marque de coutellerie Deejo",
-            nombre: 4,
+            titre: "PLV",
+            sousTitre: "Création de forex pour revendeurs de la marque Deejo",
+            nombre: 2,
         }
     },
     Illustrations: {
@@ -54,7 +54,7 @@ var config = {
     Macrame: {
         vignette: {
             image: "VignetteCarree_Macrame.jpg",
-            style: "jaune",
+            style: "turquoise",
             titre: "Macramé",
             sousTitre: "Suspension de plante"
         },
@@ -103,17 +103,17 @@ var config = {
             nombre: 2,
         }
     },
-    PLV: {
+    Textile: {
         vignette: {
-            image: "VignetteCarree_PLV.jpg",
+            image: "VignetteCarree_Textile.jpg",
             style: "gris",
-            titre: "PLV",
-            sousTitre: "Kakemono Forex Bâches"
+            titre: "Textile",
+            sousTitre: "Création de motifs pour sérigraphie"
         },
         gallerie: {
-            titre: "PLV",
-            sousTitre: "Création de forex pour revendeurs de la marque Deejo",
-            nombre: 2,
+            titre: "Textile",
+            sousTitre: "Création de motifs pour sérigraphie sur totebag pour la marque de coutellerie Deejo",
+            nombre: 4,
         }
     },
 }
