@@ -19,19 +19,19 @@ var config = {
             nombre: 6,
         }
     },
-     PLV: {
+    Comprendre: {
         vignette: {
-            image: "VignetteCarree_PLV.jpg",
+            image: "VignetteCarree_Comprendre.jpg",
             style: "gris",
-            titre: "PLV",
-            sousTitre: "Kakemono Forex Bâches"
+            titre: "Couvertures <br /> de livres",
+            sousTitre: "Principes de collection <br /> et livres hors collection"
         },
         gallerie: {
-            titre: "PLV",
+            titre: "Édition",
             sousTitre: {
-                Zoom_PLV_01 : "Création de forex pour les revendeurs <br /> de la marque Deejo",
+                Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> Armand Colin",
             },
-            nombre: 2,
+            nombre: 4,
         }
     },
     Illustrations: {
@@ -49,25 +49,10 @@ var config = {
             nombre: 8,
         }
     },
-    Comprendre: {
-        vignette: {
-            image: "VignetteCarree_Comprendre.jpg",
-            style: "cyan",
-            titre: "Couvertures <br /> de livres",
-            sousTitre: "Principes de collection <br /> et livres hors collection"
-        },
-        gallerie: {
-            titre: "Édition",
-            sousTitre: {
-                Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> Armand Colin",
-            },
-            nombre: 4,
-        }
-    },
     Macrame: {
         vignette: {
             image: "VignetteCarree_Macrame.jpg",
-            style: "turquoise",
+            style: "cyan",
             titre: "Macramé",
             sousTitre: "Suspension de plante"
         },
@@ -82,7 +67,7 @@ var config = {
     Catalogue: {
         vignette: {
             image: "VignetteCarree_Catalogue.jpg",
-            style: "outremer",
+            style: "turquoise",
             titre: "Édition",
             sousTitre: "Réalisation du catalogue Deejo 2021"
         },
@@ -112,7 +97,7 @@ var config = {
     AtelierDeejo: {
         vignette: {
             image: "VignetteCarree_AtelierDeejo.jpg",
-            style: "cyan",
+            style: "gris",
             titre: "Habillage <br /> de boutique",
             sousTitre: "Deejo - Paris"
         },
@@ -127,7 +112,7 @@ var config = {
     Textile: {
         vignette: {
             image: "VignetteCarree_Textile.jpg",
-            style: "gris",
+            style: "cyan",
             titre: "Textile",
             sousTitre: "Création de motifs pour sérigraphie"
         },
@@ -137,6 +122,21 @@ var config = {
                 Zoom_Textile_01 : "Création de motifs pour sérigraphie sur totebag pour la marque de coutellerie Deejo",
             },
             nombre: 4,
+        }
+    },
+    PLV: {
+        vignette: {
+            image: "VignetteCarree_PLV.jpg",
+            style: "outremer",
+            titre: "PLV",
+            sousTitre: "Kakemono Forex Bâches"
+        },
+        gallerie: {
+            titre: "PLV",
+            sousTitre: {
+                Zoom_PLV_01 : "Création de forex pour les revendeurs <br /> de la marque Deejo",
+            },
+            nombre: 2,
         }
     },
 }
