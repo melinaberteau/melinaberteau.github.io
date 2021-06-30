@@ -9,11 +9,11 @@ var config = {
         gallerie: {
             titre: "Gravures",
             sousTitre: {
-                Zoom_Gravures_01 : "Création de motifs pour gravure.  <br /> Ici un des six motifs <br /> de la collection de couteaux de table \"Grand Siècle\" <br /> de la marque Deejo",
-                Zoom_Gravures_02 : "Création de motifs pour gravure.  <br /> Ici la collection \"Grand Siècle\" <br /> de la marque de couteaux Deejo",
+                Zoom_Gravures_01 : "Création de motifs pour gravure.  <br /> Ici 1 des 6 motifs de la collection <br /> de couteaux de table \"Grand Siècle\" de la marque Deejo",
+                Zoom_Gravures_02 : "Création de motifs pour gravure.  <br /> La collection complète \"Grand Siècle\" <br /> de la marque de couteaux Deejo",
                 Zoom_Gravures_03 : "Création de motifs pour gravure.  <br /> Ici la collection \"Japon\" <br /> de la marque de couteaux Deejo",
-                Zoom_Gravures_04 : "Création de motifs pour gravure.  <br /> De haut en bas : <br /> \"Versailles\", \"Pacifique\" et \"Terra Incognita\"",
-                Zoom_Gravures_05 : "Création de motifs pour gravure.  <br /> De haut en bas : <br /> \"Chance\", \"Astro\" et \"Soleil Aztèque\"",
+                Zoom_Gravures_04 : "Création de motifs pour gravure.  <br /> De haut en bas les modèles : \"Versailles\", <br /> \"Pacifique\" et \"Terra Incognita\"",
+                Zoom_Gravures_05 : "Création de motifs pour gravure.  <br /> De haut en bas les modèles : <br /> \"Chance\", \"Astro\" et \"Soleil Aztèque\"",
                 Zoom_Gravures_06 : "Phases de création du motif \"Geisha\".  <br /> De l'esquisse à la gravure finale",
             },
             nombre: 6,
@@ -29,7 +29,7 @@ var config = {
         gallerie: {
             titre: "PLV",
             sousTitre: {
-                Zoom_PLV_01 : "Création de forex pour revendeurs de la marque Deejo",
+                Zoom_PLV_01 : "Création de forex pour les revendeurs <br /> de la marque Deejo",
             },
             nombre: 2,
         }
