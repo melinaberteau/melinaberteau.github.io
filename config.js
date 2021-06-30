@@ -12,9 +12,9 @@ var config = {
                 Zoom_Gravures_01 : "Création de motifs pour gravure.  <br /> Ici un des six motifs <br /> de la collection de couteaux de table \"Grand Siècle\" <br /> de la marque Deejo",
                 Zoom_Gravures_02 : "Création de motifs pour gravure.  <br /> Ici la collection \"Grand Siècle\" <br /> de la marque de couteaux Deejo",
                 Zoom_Gravures_03 : "Création de motifs pour gravure.  <br /> Ici la collection \"Japon\" <br /> de la marque de couteaux Deejo",
-                Zoom_Gravures_04 : "Création de motifs pour gravure.  <br /> De haut en bas : <br /> \"Versailles\", \"Pacifique\" et \"Terra Incognita\",
-                Zoom_Gravures_05 : "Création de motifs pour gravure.  <br /> De haut en bas : <br /> \"Chance\", \"Astro\" et \"Soleil Aztèque\",
-                Zoom_Gravures_06 : "Phases de création du motif \"Geisha\".  <br /> De l'esquisse à la gravure finale,
+                Zoom_Gravures_04 : "Création de motifs pour gravure.  <br /> De haut en bas : <br /> \"Versailles\", \"Pacifique\" et \"Terra Incognita\"",
+                Zoom_Gravures_05 : "Création de motifs pour gravure.  <br /> De haut en bas : <br /> \"Chance\", \"Astro\" et \"Soleil Aztèque\"",
+                Zoom_Gravures_06 : "Phases de création du motif \"Geisha\".  <br /> De l'esquisse à la gravure finale",
             },
             nombre: 6,
         }
