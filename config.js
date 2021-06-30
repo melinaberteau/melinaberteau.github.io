@@ -112,7 +112,7 @@ var config = {
     Textile: {
         vignette: {
             image: "VignetteCarree_Textile.jpg",
-            style: "cyan",
+            style: "outremer",
             titre: "Textile",
             sousTitre: "Création de motifs pour sérigraphie"
         },
@@ -127,7 +127,7 @@ var config = {
     PLV: {
         vignette: {
             image: "VignetteCarree_PLV.jpg",
-            style: "outremer",
+            style: "cyan",
             titre: "PLV",
             sousTitre: "Kakemono Forex Bâches"
         },
