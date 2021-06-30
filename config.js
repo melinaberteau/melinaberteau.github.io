@@ -29,9 +29,10 @@ var config = {
         gallerie: {
             titre: "Édition",
             sousTitre: {
-                Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> Armand Colin",
+                Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> \"Armand Colin\"",
+                Zoom_Comprendre_02 : "Principe de collection <br /> pour la maison d'édition <br /> \"Presses de la Cité\"",
             },
-            nombre: 4,
+            nombre: 2,
         }
     },
     Illustrations: {
