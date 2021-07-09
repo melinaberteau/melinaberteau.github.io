@@ -2,7 +2,7 @@ var config = {
      Gravures: {
         vignette: {
             image: "VignetteCarree_Gravures.jpg",
-            style: "outremer",
+            style: "saumon",
             titre: "Gravures",
             sousTitre: "Création de motifs pour gravure"
         },
@@ -19,10 +19,10 @@ var config = {
             nombre: 6,
         }
     },
-    Comprendre: {
+     Comprendre: {
         vignette: {
             image: "VignetteCarree_Comprendre.jpg",
-            style: "gris",
+            style: "beige",
             titre: "Couvertures <br /> de livres",
             sousTitre: "Principes de collection <br /> et livres hors collection"
         },
@@ -35,40 +35,10 @@ var config = {
             nombre: 2,
         }
     },
-    Illustrations: {
-        vignette: {
-            image: "VignetteCarree_Illustrations.jpg",
-            style: "cyan",
-            titre: "Illustrations",
-            sousTitre: "Projets perso"
-        },
-        gallerie: {
-            titre: "Illustrations",
-            sousTitre: {
-                Zoom_Illustrations_01 : "Projets personnels d'illustration",
-            },
-            nombre: 8,
-        }
-    },
-    Macrame: {
-        vignette: {
-            image: "VignetteCarree_Macrame.jpg",
-            style: "cyan",
-            titre: "Macramé",
-            sousTitre: "Suspension de plante"
-        },
-        gallerie: {
-            titre: "Macramé",
-            sousTitre: {
-                Zoom_Macrame_01 : "Réalisation de suspensions de plante et de tenture en macramé",
-            },
-            nombre: 3,
-        }
-    },
-    Catalogue: {
+     Catalogue: {
         vignette: {
             image: "VignetteCarree_Catalogue.jpg",
-            style: "turquoise",
+            style: "kaki",
             titre: "Édition",
             sousTitre: "Réalisation du catalogue Deejo 2021"
         },
@@ -80,10 +50,40 @@ var config = {
             nombre: 4,
         }
     },
-    Packaging: {
+     Illustrations: {
+        vignette: {
+            image: "VignetteCarree_Illustrations.jpg",
+            style: "ciel",
+            titre: "Illustrations",
+            sousTitre: "Projets perso"
+        },
+        gallerie: {
+            titre: "Illustrations",
+            sousTitre: {
+                Zoom_Illustrations_01 : "Projets personnels d'illustration",
+            },
+            nombre: 8,
+        }
+    },
+     Macrame: {
+        vignette: {
+            image: "VignetteCarree_Macrame.jpg",
+            style: "saumon",
+            titre: "Macramé",
+            sousTitre: "Suspension de plante"
+        },
+        gallerie: {
+            titre: "Macramé",
+            sousTitre: {
+                Zoom_Macrame_01 : "Réalisation de suspensions de plante et de tenture en macramé",
+            },
+            nombre: 3,
+        }
+    },
+     Packaging: {
         vignette: {
             image: "VignetteCarree_Packaging.jpg",
-            style: "outremer",
+            style: "beige",
             titre: "Packaging",
             sousTitre: "Réalisation de packagings <br /> pour la marque Akinod"
         },
@@ -95,10 +95,10 @@ var config = {
             nombre: 2,
         }
     },
-    AtelierDeejo: {
+     AtelierDeejo: {
         vignette: {
             image: "VignetteCarree_AtelierDeejo.jpg",
-            style: "gris",
+            style: "kaki",
             titre: "Habillage <br /> de boutique",
             sousTitre: "Deejo - Paris"
         },
@@ -110,10 +110,10 @@ var config = {
             nombre: 2,
         }
     },
-    Textile: {
+     Textile: {
         vignette: {
             image: "VignetteCarree_Textile.jpg",
-            style: "outremer",
+            style: "ciel",
             titre: "Textile",
             sousTitre: "Création de motifs pour sérigraphie"
         },
@@ -125,10 +125,10 @@ var config = {
             nombre: 4,
         }
     },
-    PLV: {
+     PLV: {
         vignette: {
             image: "VignetteCarree_PLV.jpg",
-            style: "cyan",
+            style: "saumon",
             titre: "PLV",
             sousTitre: "Kakemono Forex Bâches"
         },
@@ -138,6 +138,24 @@ var config = {
                 Zoom_PLV_01 : "Création de forex pour les revendeurs <br /> de la marque Deejo",
             },
             nombre: 2,
+        }
+    },
+     Produit: {
+        vignette: {
+            image: "VignetteCarree_Produit.jpg",
+            style: "beige",
+            titre: "Design Produit",
+            sousTitre: "Motifs - Pattern"
+        },
+        gallerie: {
+            titre: "Design Produit",
+            sousTitre: {
+                Zoom_Produit_01 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Motif ",
+                Zoom_Produit_02 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Motif \"Diagonal\"",
+                Zoom_Produit_03 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Motif \"Arabesque\"",
+                Zoom_Produit_03 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Collection \"Sports\": <br /> \"Canoé\", \"Rugby\", \"Voile\", \"Natation\", <br /> \"Basket\", \"Cyclisme\", \"Athlétisme\" et \"Tennis\"",
+            },
+            nombre: 4,
         }
     },
 }
