@@ -12,9 +12,9 @@ var config = {
                 Zoom_Gravures_01 : "Création de motifs pour gravure.  <br /> Ici 1 des 6 motifs de la collection <br /> de couteaux de table \"Grand Siècle\" de la marque Deejo",
                 Zoom_Gravures_02 : "Création de motifs pour gravure.  <br /> La collection complète \"Grand Siècle\" <br /> de la marque de couteaux Deejo",
                 Zoom_Gravures_03 : "Création de motifs pour gravure.  <br /> Ici la collection \"Japon\" <br /> de la marque de couteaux Deejo",
-                Zoom_Gravures_04 : "Création de motifs pour gravure.  <br /> De haut en bas les modèles : \"Versailles\", <br /> \"Pacifique\" et \"Terra Incognita\"",
+                Zoom_Gravures_04 : "Création de motifs pour gravure.  <br /> De haut en bas les modèles : \"Versailles\", \"Pacifique\" <br /> et \"Terra Incognita\"",
                 Zoom_Gravures_05 : "Création de motifs pour gravure.  <br /> De haut en bas les modèles : <br /> \"Chance\", \"Astro\" et \"Soleil Aztèque\"",
-                Zoom_Gravures_06 : "Phases de création du motif \"Geisha\".  <br /> De l'esquisse à la gravure finale",
+                Zoom_Gravures_06 : "Phases de création du motif \"Geisha\".  <br /> De l'esquisse à la gravure finale.",
             },
             nombre: 6,
         }
@@ -46,8 +46,9 @@ var config = {
             titre: "Édition",
             sousTitre: {
                 Zoom_Catalogue_01 : "Réalisation du catalogue Deejo 2021",
+                Zoom_Catalogue_02 : "Réalisation du catalogue Deejo 2021",
             },
-            nombre: 4,
+            nombre: 2,
         }
     },
      Illustrations: {
@@ -60,9 +61,13 @@ var config = {
         gallerie: {
             titre: "Illustrations",
             sousTitre: {
-                Zoom_Illustrations_01 : "Projets personnels d'illustration",
+                Zoom_Illustrations_01 : "Projet personnel d'illustration. <br /> Techniques diverses : crayon, aquarelle et collage.",
+                Zoom_Illustrations_02 : "Projet personnel d'illustration. <br /> Techniques diverses : Aquarelle et feutre fin.",
+                Zoom_Illustrations_03 : "Projet personnel d'illustration. <br /> Technique : Rotring.",
+                Zoom_Illustrations_04 : "Projet personnel d'illustration. <br /> Techniques diverses : Crayons de couleurs et feutre fin.",
+                Zoom_Illustrations_05 : "Recherches sur le thème du grizzli. <br /> Techniques : Feutres fins, rotring.",
             },
-            nombre: 8,
+            nombre: 5,
         }
     },
      Produit: {
@@ -75,8 +80,8 @@ var config = {
         gallerie: {
             titre: "Design Produit",
             sousTitre: {
-                Zoom_Produit_01 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Feuillage\"",
-                Zoom_Produit_02 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Diagonal\"",
+                Zoom_Produit_01 : "Création de motifs <br /> pour les couverts Akinod. <br /> Ici, le motif \"Feuillage\"",
+                Zoom_Produit_02 : "Création de motifs <br /> pour les couverts Akinod. <br /> Ici, le motif \"Diagonal\"",
                 Zoom_Produit_03 : "Création de motifs <br /> pour les couverts Akinod. <br /> Ici, le motif \"Arabesque\"",
                 Zoom_Produit_04 : "Création de motifs <br /> pour les couverts Akinod. <br /> Collection \"Sports\": \"Canoé\", \"Rugby\", <br /> \"Voile\", \"Natation\", \"Basket\", \"Cyclisme\", <br /> \"Athlétisme\" et \"Tennis\"",
             },
@@ -93,7 +98,8 @@ var config = {
         gallerie: {
             titre: "Packaging",
             sousTitre: {
-                Zoom_Packaging_01 : "Réalisation de packagings <br /> pour la marque Akinod",
+                Zoom_Packaging_01 : "Réalisation de packagings <br /> pour la marque Akinod.",
+                Zoom_Packaging_02 : "Réalisation de packagings <br /> pour la marque Akinod.",
             },
             nombre: 2,
         }
@@ -108,7 +114,9 @@ var config = {
         gallerie: {
             titre: "Macramé",
             sousTitre: {
-                Zoom_Macrame_01 : "Réalisation de suspensions de plante et de tenture en macramé",
+                Zoom_Macrame_01 : "Réalisation de suspensions <br /> de plante en macramé",
+                Zoom_Macrame_02 : "Réalisation de tenture <br /> murale en macramé",
+                Zoom_Macrame_03 : "Réalisation de tenture <br /> murale en macramé",
             },
             nombre: 3,
         }
@@ -123,7 +131,8 @@ var config = {
         gallerie: {
             titre: "Habillage <br /> de boutique",
             sousTitre: {
-                Zoom_AtelierDeejo_01 : "Réalisation d'une fresque murale <br /> pour la boutique Deejo",
+                Zoom_AtelierDeejo_01 : "Conception et réalisation d'une fresque murale pour la boutique Deejo",
+                Zoom_AtelierDeejo_01 : "Conception et réalisation d'une fresque murale pour la boutique Deejo",
             },
             nombre: 2,
         }
@@ -138,7 +147,10 @@ var config = {
         gallerie: {
             titre: "Textile",
             sousTitre: {
-                Zoom_Textile_01 : "Création de motifs pour sérigraphie sur totebag pour la marque de coutellerie Deejo",
+                Zoom_Textile_01 : "Création de motifs pour sérigraphie <br /> sur totebag pour Deejo",
+                Zoom_Textile_02 : "Création de motifs pour sérigraphie <br /> sur totebag pour Deejo",
+                Zoom_Textile_03 : "Création de motifs pour sérigraphie <br /> sur totebag pour Deejo",
+                Zoom_Textile_04 : "Création de motifs pour sérigraphie <br /> sur totebag pour Deejo",
             },
             nombre: 4,
         }
@@ -153,7 +165,7 @@ var config = {
         gallerie: {
             titre: "PLV",
             sousTitre: {
-                Zoom_PLV_01 : "Création de forex pour les revendeurs <br /> de la marque Deejo",
+                Zoom_PLV_01 : "Création de forex pour Deejo",
             },
             nombre: 2,
         }
