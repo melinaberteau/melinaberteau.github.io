@@ -53,7 +53,7 @@ var config = {
      Illustrations: {
         vignette: {
             image: "VignetteCarree_Illustrations.jpg",
-            style: "kaki",
+            style: "beige",
             titre: "Illustrations",
             sousTitre: "Projets perso"
         },
