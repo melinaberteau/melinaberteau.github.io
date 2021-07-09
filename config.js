@@ -153,7 +153,7 @@ var config = {
                 Zoom_Produit_01 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod.  ",
                 Zoom_Produit_02 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Motif \"Diagonal\"",
                 Zoom_Produit_03 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Motif \"Arabesque\"",
-                Zoom_Produit_04 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Collection \"Sports\": \"Canoé\", \"Rugby\", <br /> \"Voile\", \"Natation\", <br /> \"Basket\", \"Cyclisme\", \"Athlétisme\" et \"Tennis\"",
+                Zoom_Produit_04 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Collection \"Sports\": \"Canoé\", \"Rugby\", <br /> \"Voile\", \"Natation\", \"Basket\", \"Cyclisme\", <br /> \"Athlétisme\" et \"Tennis\"",
             },
             nombre: 4,
         }
