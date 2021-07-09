@@ -61,10 +61,10 @@ var config = {
         gallerie: {
             titre: "Illustrations",
             sousTitre: {
-                Zoom_Illustrations_01 : "Projet personnel d'illustration. <br /> Techniques diverses : crayon, aquarelle et collage.",
-                Zoom_Illustrations_02 : "Projet personnel d'illustration. <br /> Techniques diverses : Aquarelle et feutre fin.",
+                Zoom_Illustrations_01 : "Projet personnel d'illustration. <br /> Techniques diverses : <br /> crayon, aquarelle et collage.",
+                Zoom_Illustrations_02 : "Projet personnel d'illustration. <br /> Techniques diverses :  <br /> Aquarelle et feutre fin.",
                 Zoom_Illustrations_03 : "Projet personnel d'illustration. <br /> Technique : Rotring.",
-                Zoom_Illustrations_04 : "Projet personnel d'illustration. <br /> Techniques diverses : Crayons de couleurs et feutre fin.",
+                Zoom_Illustrations_04 : "Projet personnel d'illustration. <br /> Techniques diverses : <br /> Crayons de couleurs et feutre fin.",
                 Zoom_Illustrations_05 : "Recherches sur le thème du grizzli. <br /> Techniques : Feutres fins, rotring.",
             },
             nombre: 5,
