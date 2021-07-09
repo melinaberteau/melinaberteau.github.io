@@ -37,3 +37,19 @@
 .tiles article.turquoise > .image:before {
     background-color: #2daa9a;
 }
+
+.tiles article.beige > .image:before {
+    background-color: #fff5eb;
+}
+
+.tiles article.saumon > .image:before {
+    background-color: #f4c7ab;
+}
+
+.tiles article.ciel > .image:before {
+    background-color: #deedf0;
+}
+
+.tiles article.kaki > .image:before {
+    background-color: #b2b8a3;
+}
