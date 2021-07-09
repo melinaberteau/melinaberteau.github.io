@@ -53,7 +53,7 @@ var config = {
      Illustrations: {
         vignette: {
             image: "VignetteCarree_Illustrations.jpg",
-            style: "ciel",
+            style: "kaki",
             titre: "Illustrations",
             sousTitre: "Projets perso"
         },
@@ -63,6 +63,39 @@ var config = {
                 Zoom_Illustrations_01 : "Projets personnels d'illustration",
             },
             nombre: 8,
+        }
+    },
+     Produit: {
+        vignette: {
+            image: "VignetteCarree_Produit.jpg",
+            style: "ciel",
+            titre: "Design Produit",
+            sousTitre: "Motifs - Pattern"
+        },
+        gallerie: {
+            titre: "Design Produit",
+            sousTitre: {
+                Zoom_Produit_01 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Feuillage\"",
+                Zoom_Produit_02 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Diagonal\"",
+                Zoom_Produit_03 : "Création de motifs <br /> pour les couverts Akinod. <br /> Ici, le motif \"Arabesque\"",
+                Zoom_Produit_04 : "Création de motifs <br /> pour les couverts Akinod. <br /> Collection \"Sports\": \"Canoé\", \"Rugby\", <br /> \"Voile\", \"Natation\", \"Basket\", \"Cyclisme\", <br /> \"Athlétisme\" et \"Tennis\"",
+            },
+            nombre: 4,
+        }
+    },
+     Packaging: {
+        vignette: {
+            image: "VignetteCarree_Packaging.jpg",
+            style: "saumon",
+            titre: "Packaging",
+            sousTitre: "Réalisation de packagings <br /> pour la marque Akinod"
+        },
+        gallerie: {
+            titre: "Packaging",
+            sousTitre: {
+                Zoom_Packaging_01 : "Réalisation de packagings <br /> pour la marque Akinod",
+            },
+            nombre: 2,
         }
     },
      Macrame: {
@@ -80,25 +113,10 @@ var config = {
             nombre: 3,
         }
     },
-     Packaging: {
-        vignette: {
-            image: "VignetteCarree_Packaging.jpg",
-            style: "beige",
-            titre: "Packaging",
-            sousTitre: "Réalisation de packagings <br /> pour la marque Akinod"
-        },
-        gallerie: {
-            titre: "Packaging",
-            sousTitre: {
-                Zoom_Packaging_01 : "Réalisation de packagings <br /> pour la marque Akinod",
-            },
-            nombre: 2,
-        }
-    },
      AtelierDeejo: {
         vignette: {
             image: "VignetteCarree_AtelierDeejo.jpg",
-            style: "kaki",
+            style: "beige",
             titre: "Habillage <br /> de boutique",
             sousTitre: "Deejo - Paris"
         },
@@ -113,7 +131,7 @@ var config = {
      Textile: {
         vignette: {
             image: "VignetteCarree_Textile.jpg",
-            style: "ciel",
+            style: "kaki",
             titre: "Textile",
             sousTitre: "Création de motifs pour sérigraphie"
         },
@@ -128,7 +146,7 @@ var config = {
      PLV: {
         vignette: {
             image: "VignetteCarree_PLV.jpg",
-            style: "saumon",
+            style: "ciel",
             titre: "PLV",
             sousTitre: "Kakemono Forex Bâches"
         },
@@ -138,24 +156,6 @@ var config = {
                 Zoom_PLV_01 : "Création de forex pour les revendeurs <br /> de la marque Deejo",
             },
             nombre: 2,
-        }
-    },
-     Produit: {
-        vignette: {
-            image: "VignetteCarree_Produit.jpg",
-            style: "beige",
-            titre: "Design Produit",
-            sousTitre: "Motifs - Pattern"
-        },
-        gallerie: {
-            titre: "Design Produit",
-            sousTitre: {
-                Zoom_Produit_01 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Feuillage\"",
-                Zoom_Produit_02 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Diagonal\"",
-                Zoom_Produit_03 : "Création de motifs <br /> pour les couverts Akinod. <br /> Ici, le motif \"Arabesque\"",
-                Zoom_Produit_04 : "Création de motifs <br /> pour les couverts Akinod. <br /> Collection \"Sports\": \"Canoé\", \"Rugby\", <br /> \"Voile\", \"Natation\", \"Basket\", \"Cyclisme\", <br /> \"Athlétisme\" et \"Tennis\"",
-            },
-            nombre: 4,
         }
     },
 }
