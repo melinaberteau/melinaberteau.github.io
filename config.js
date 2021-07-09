@@ -150,10 +150,10 @@ var config = {
         gallerie: {
             titre: "Design Produit",
             sousTitre: {
-                Zoom_Produit_01 : "Création de motifs pour les couverts Akinod",
-                Zoom_Produit_02 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Motif \"Diagonal\"",
-                Zoom_Produit_03 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Motif \"Arabesque\"",
-                Zoom_Produit_04 : "Création de motifs <br /> pour les manches des couverts <br /> de la marque Akinod. <br /> Collection \"Sports\": \"Canoé\", \"Rugby\", <br /> \"Voile\", \"Natation\", \"Basket\", \"Cyclisme\", <br /> \"Athlétisme\" et \"Tennis\"",
+                Zoom_Produit_01 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Feuillage\"",
+                Zoom_Produit_02 : "Création de motifs <br /> pour les couverts Akinod <br /> Ici, le motif \"Diagonal\"",
+                Zoom_Produit_03 : "Création de motifs <br /> pour les couverts Akinod. <br /> Ici, le motif \"Arabesque\"",
+                Zoom_Produit_04 : "Création de motifs <br /> pour les couverts Akinod. <br /> Collection \"Sports\": \"Canoé\", \"Rugby\", <br /> \"Voile\", \"Natation\", \"Basket\", \"Cyclisme\", <br /> \"Athlétisme\" et \"Tennis\"",
             },
             nombre: 4,
         }
