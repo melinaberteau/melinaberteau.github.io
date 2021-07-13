@@ -56,7 +56,7 @@ var config = {
             image: "VignetteCarree_Illustrations.jpg",
             style: "beige",
             titre: "Illustrations",
-            sousTitre: "Projets perso"
+            sousTitre: "Projets personnels"
         },
         gallerie: {
             titre: "Illustrations",
