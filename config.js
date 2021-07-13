@@ -155,6 +155,24 @@ var config = {
             nombre: 4,
         }
     },
+     CP: {
+        vignette: {
+            image: "VignetteCarree_CP.jpg",
+            style: "beige",
+            titre: "Presse",
+            sousTitre: "Communiqués <br /> de presse"
+        },
+        gallerie: {
+            titre: "Communiqués <br /> de presse",
+            sousTitre: {
+                Zoom_CP_01 : "Création de communiqué de presse pour Deejo.",
+                Zoom_CP_02 : "Création de communiqué de presse pour Deejo.",
+                Zoom_CP_03 : "Création de communiqué de presse pour Akinod.",
+                Zoom_CP_04 : "Création de communiqué de presse pour Deejo.",
+            },
+            nombre: 4,
+        }
+    },
      PLV: {
         vignette: {
             image: "VignetteCarree_PLV.jpg",
