@@ -47,8 +47,10 @@ var config = {
             sousTitre: {
                 Zoom_Catalogue_01 : "Réalisation du catalogue Deejo 2021.  <br /> Couverture.",
                 Zoom_Catalogue_02 : "Réalisation du catalogue Deejo 2021.",
+                Zoom_Catalogue_03 : "Réalisation du catalogue Akinod 2021.",
+                Zoom_Catalogue_04 : "Réalisation du catalogue Akinod 2021.",
             },
-            nombre: 2,
+            nombre: 4,
         }
     },
      Illustrations: {
