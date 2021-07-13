@@ -66,8 +66,9 @@ var config = {
                 Zoom_Illustrations_03 : "Projet personnel d'illustration. <br /> Technique : Rotring.",
                 Zoom_Illustrations_04 : "Projet personnel d'illustration. <br /> Techniques diverses : <br /> Crayons de couleurs et feutre fin.",
                 Zoom_Illustrations_05 : "Recherches sur le thème du grizzli. <br /> Techniques : Feutres fins, rotring.",
+                Zoom_Illustrations_06 : "Projet personnel d'illustration. <br /> Techniques : Feutres fins, rotring.",
             },
-            nombre: 5,
+            nombre: 6,
         }
     },
      Produit: {
@@ -165,10 +166,10 @@ var config = {
         gallerie: {
             titre: "Communiqués <br /> de presse",
             sousTitre: {
-                Zoom_CP_01 : "Création de communiqué de presse pour Deejo.",
-                Zoom_CP_02 : "Création de communiqué de presse pour Deejo.",
-                Zoom_CP_03 : "Création de communiqué de presse pour Akinod.",
-                Zoom_CP_04 : "Création de communiqué de presse pour Deejo.",
+                Zoom_CP_01 : "Création de communiqué <br /> de presse pour Deejo.",
+                Zoom_CP_02 : "Création de communiqué <br /> de presse pour Deejo.",
+                Zoom_CP_03 : "Création de communiqué <br /> de presse pour Akinod.",
+                Zoom_CP_04 : "Création de communiqué <br /> de presse pour Deejo.",
             },
             nombre: 4,
         }
