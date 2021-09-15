@@ -39,11 +39,11 @@ var config = {
         vignette: {
             image: "VignetteCarree_Catalogue.jpg",
             style: "kaki",
-            titre: "Édition",
-            sousTitre: "Réalisation de catalogues"
+            titre: "Catalogue",
+            sousTitre: "Conception et réalisation <br /> de catalogues "
         },
         gallerie: {
-            titre: "Édition",
+            titre: "Catalogue",
             sousTitre: {
                 Zoom_Catalogue_01 : "Réalisation du catalogue Deejo 2021.  <br /> Couverture.",
                 Zoom_Catalogue_02 : "Réalisation du catalogue Deejo 2021.",
