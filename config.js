@@ -107,8 +107,9 @@ var config = {
                 Zoom_Packaging_01 : "Réalisation de packagings <br /> pour la marque Akinod.",
                 Zoom_Packaging_02 : "Réalisation de packagings <br /> pour la marque Akinod.",
                 Zoom_Packaging_03 : "Adaptation de packagings <br /> pour la marque Baladeo.",
+                Zoom_Packaging_04 : "Adaptation de packagings <br /> pour la marque Baladeo.",
             },
-            nombre: 3,
+            nombre: 4,
         }
     },
      Macrame: {
