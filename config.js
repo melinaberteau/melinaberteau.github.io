@@ -49,7 +49,7 @@ var config = {
                 Zoom_Catalogue_02 : "Réalisation du catalogue Deejo 2021.",
                 Zoom_Catalogue_03 : "Réalisation du catalogue Akinod 2021.",
                 Zoom_Catalogue_04 : "Réalisation du catalogue Akinod 2021.",
-                Zoom_Catalogue_05 : "Conception et réalisation de la couverture <br /> du catalogue Baladeo 2021/2022. Un pont entre la ville et la nature",
+                Zoom_Catalogue_05 : "Conception et réalisation de la couverture du catalogue Baladeo 2021/2022. <br /> Un pont entre la ville et la nature",
             },
             nombre: 5,
         }
