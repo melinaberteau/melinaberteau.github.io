@@ -158,22 +158,21 @@ var config = {
             nombre: 4,
         }
     },
-     CP: {
+     Typo: {
         vignette: {
-            image: "VignetteCarree_CP.jpg",
+            image: "VignetteCarree_Typo.jpg",
             style: "beige",
-            titre: "Presse",
-            sousTitre: "Communiqués <br /> de presse"
+            titre: "Typographie",
+            sousTitre: "Expérimentations <br /> typographiques"
         },
         gallerie: {
-            titre: "Communiqués <br /> de presse",
+            titre: "Typographie",
             sousTitre: {
-                Zoom_CP_01 : "Création de communiqué <br /> de presse pour Deejo.",
-                Zoom_CP_02 : "Création de communiqué <br /> de presse pour Deejo.",
-                Zoom_CP_03 : "Création de communiqué <br /> de presse pour Akinod.",
-                Zoom_CP_04 : "Création de communiqué <br /> de presse pour Deejo.",
+                Zoom_Typo_01 : "Expérimentations typographiques <br /> à partir de planches d'anatomie",
+                Zoom_Typo_02 : "Expérimentations typographiques <br /> à partir d'imprimés textiles",
+                Zoom_Typo_03 : "Expérimentations typographiques <br /> à partir d'imprimés textiles",
             },
-            nombre: 4,
+            nombre: 3,
         }
     },
      PLV: {
@@ -191,20 +190,22 @@ var config = {
             nombre: 2,
         }
     },
-    Typo: {
+     CP: {
         vignette: {
-            image: "VignetteCarree_Typo.jpg",
+            image: "VignetteCarree_CP.jpg",
             style: "saumon",
-            titre: "Typographie",
-            sousTitre: "Expérimentations <br /> typographiques"
+            titre: "Presse",
+            sousTitre: "Communiqués <br /> de presse"
         },
         gallerie: {
-            titre: "Typographie",
+            titre: "Communiqués <br /> de presse",
             sousTitre: {
-                Zoom_Typo_01 : "Expérimentations typographiques <br /> à partir de planches d'anatomie",
-                Zoom_Typo_02 : "Expérimentations typographiques <br /> à partir d'imprimés textiles",
+                Zoom_CP_01 : "Création de communiqué <br /> de presse pour Deejo.",
+                Zoom_CP_02 : "Création de communiqué <br /> de presse pour Deejo.",
+                Zoom_CP_03 : "Création de communiqué <br /> de presse pour Akinod.",
+                Zoom_CP_04 : "Création de communiqué <br /> de presse pour Deejo.",
             },
-            nombre: 2,
+            nombre: 4,
         }
     },
 }
