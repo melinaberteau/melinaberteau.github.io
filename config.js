@@ -191,4 +191,20 @@ var config = {
             nombre: 2,
         }
     },
+    Typo: {
+        vignette: {
+            image: "VignetteCarree_Typo.jpg",
+            style: "saumon",
+            titre: "Typographie",
+            sousTitre: "Expérimentations <br /> typographiques"
+        },
+        gallerie: {
+            titre: "Typographie",
+            sousTitre: {
+                Zoom_Typo_01 : "Expérimentations typographiques <br /> à partir de planches d'anatomie",
+                Zoom_Typo_02 : "Expérimentations typographiques <br /> à partir d'imprimés textiles",
+            },
+            nombre: 2,
+        }
+    },
 }
