@@ -69,7 +69,7 @@ var config = {
                 Zoom_Illustrations_04 : "Projet personnel d'illustration. <br /> Techniques diverses : <br /> Crayons de couleurs et feutre fin.",
                 Zoom_Illustrations_05 : "Recherches sur le thème du grizzli. <br /> Techniques : Feutres fins, rotring.",
                 Zoom_Illustrations_06 : "Projet personnel d'illustration. <br /> Techniques : Feutres fins, rotring.",
-                Zoom_Illustrations_07 : "Projet personnel d'illustration. <br /> Techniques : Crayon de papier et collage.",
+                Zoom_Illustrations_07 : "Proposition d'illustrations pour horoscope. <br /> Techniques : Crayon de papier et collage.",
                 Zoom_Illustrations_08 : "Projet personnel d'illustration. <br /> Techniques : Aquarelle.",
             },
             nombre: 8,
