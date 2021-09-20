@@ -32,8 +32,10 @@ var config = {
                 Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> \"Armand Colin\"",
                 Zoom_Comprendre_02 : "Principe de collection <br /> pour la maison d'édition <br /> \"Presses de la Cité\"",
                 Zoom_Comprendre_03 : "Couverture du livre \"Madame Bovary\" <br /> Premier prix de graphisme d'Echirolles",
+                Zoom_Comprendre_04 : "Couverture du livre \"Génération Y\" <br /> Editions PUF",
+                Zoom_Comprendre_05 : "Couverture du livre \"Le secret d'Alice\" <br /> Editions l'Archipel",
             },
-            nombre: 3,
+            nombre: 5,
         }
     },
      Catalogue: {
