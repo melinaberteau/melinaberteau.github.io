@@ -31,8 +31,9 @@ var config = {
             sousTitre: {
                 Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> \"Armand Colin\"",
                 Zoom_Comprendre_02 : "Principe de collection <br /> pour la maison d'édition <br /> \"Presses de la Cité\"",
+                Zoom_Comprendre_03 : "Couverture du livre \"Madame Bovary\" <br /> Premier prix de graphisme d'Echirolles",
             },
-            nombre: 2,
+            nombre: 3,
         }
     },
      Catalogue: {
@@ -73,8 +74,9 @@ var config = {
                 Zoom_Illustrations_07 : "Kookaburra. <br /> Techniques : Aquarelle.",
                 Zoom_Illustrations_08 : "Proposition d'illustrations  <br /> pour horoscope. <br /> Techniques : Crayon de papier <br /> et collage.",
                 Zoom_Illustrations_09 : "Poulpe  <br /> Techniques diverses :  <br /> Aquarelle et feutres fins.",
+                Zoom_Illustrations_10 : "Surfeur  <br /> Techniques diverses :  <br /> Crayon de papier et crayons de couleurs.",
             },
-            nombre: 9,
+            nombre: 10,
         }
     },
      Produit: {
