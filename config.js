@@ -66,14 +66,15 @@ var config = {
             sousTitre: {
                 Zoom_Illustrations_01 : "Projet personnel d'illustration. <br /> Techniques diverses : <br /> crayon, aquarelle et collage.",
                 Zoom_Illustrations_02 : "Projet personnel d'illustration. <br /> Techniques diverses :  <br /> Aquarelle et feutre fin.",
-                Zoom_Illustrations_03 : "Projet personnel d'illustration. <br /> Technique : Rotring.",
-                Zoom_Illustrations_04 : "Projet personnel d'illustration. <br /> Techniques diverses : <br /> Crayons de couleurs et feutre fin.",
+                Zoom_Illustrations_03 : "Grand requin blanc. <br /> Technique : Rotring.",
+                Zoom_Illustrations_04 : "Mad World <br /> Techniques diverses : <br /> Crayons de couleurs et feutre fin.",
                 Zoom_Illustrations_05 : "Recherches sur le thème du grizzli. <br /> Techniques : Feutres fins, rotring.",
                 Zoom_Illustrations_06 : "Projet personnel d'illustration. <br /> Techniques : Feutres fins, rotring.",
-                Zoom_Illustrations_07 : "Projet personnel d'illustration. <br /> Techniques : Aquarelle.",
+                Zoom_Illustrations_07 : "Kookaburra. <br /> Techniques : Aquarelle.",
                 Zoom_Illustrations_08 : "Proposition d'illustrations  <br /> pour horoscope. <br /> Techniques : Crayon de papier <br /> et collage.",
+                Zoom_Illustrations_09 : "Poulpe  <br /> Techniques diverses :  <br /> Aquarelle et feutres fins.",
             },
-            nombre: 8,
+            nombre: 9,
         }
     },
      Produit: {
