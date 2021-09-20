@@ -19,9 +19,9 @@ var config = {
             nombre: 6,
         }
     },
-     Comprendre: {
+     Couv: {
         vignette: {
-            image: "VignetteCarree_Comprendre.jpg",
+            image: "VignetteCarree_Couv.jpg",
             style: "beige",
             titre: "Couvertures <br /> de livres",
             sousTitre: "Principes de collection <br /> et livres hors collection"
@@ -29,11 +29,11 @@ var config = {
         gallerie: {
             titre: "Édition",
             sousTitre: {
-                Zoom_Comprendre_01 : "Principe de collection <br /> pour la maison d'édition <br /> \"Armand Colin\"",
-                Zoom_Comprendre_02 : "Principe de collection <br /> pour la maison d'édition <br /> \"Presses de la Cité\"",
-                Zoom_Comprendre_03 : "Couverture du livre \"Madame Bovary\" <br /> Premier prix de graphisme d'Echirolles",
-                Zoom_Comprendre_04 : "Couverture du livre \"Génération Y\" <br /> Editions PUF",
-                Zoom_Comprendre_05 : "Couverture du livre \"Le secret d'Alice\" <br /> Editions l'Archipel",
+                Zoom_Couv_01 : "Principe de collection <br /> pour la maison d'édition <br /> \"Armand Colin\"",
+                Zoom_Couv_02 : "Principe de collection <br /> pour la maison d'édition <br /> \"Presses de la Cité\"",
+                Zoom_Couv_03 : "Couverture du livre \"Madame Bovary\" <br /> Premier prix de graphisme d'Echirolles",
+                Zoom_Couv_04 : "Couverture du livre \"Génération Y\" <br /> Editions PUF",
+                Zoom_Couv_05 : "Couverture du livre \"Le secret d'Alice\" <br /> Editions l'Archipel",
             },
             nombre: 5,
         }
