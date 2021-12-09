@@ -67,18 +67,20 @@ var config = {
         gallerie: {
             titre: "Illustrations",
             sousTitre: {
-                Zoom_Illustrations_01 : "Projet personnel d'illustration. <br /> Techniques diverses : <br /> crayon, aquarelle et collage.",
-                Zoom_Illustrations_02 : "Projet personnel d'illustration. <br /> Techniques diverses :  <br /> Aquarelle et feutre fin.",
+                Zoom_Illustrations_01 : "Projet personnel d'illustration. <br /> Techniques : <br /> crayon, aquarelle et collage.",
+                Zoom_Illustrations_02 : "Projet personnel d'illustration. <br /> Techniques :  <br /> Aquarelle et feutre fin.",
                 Zoom_Illustrations_03 : "Grand requin blanc. <br /> Technique : Rotring.",
                 Zoom_Illustrations_04 : "Mad World <br /> Techniques diverses : <br /> Crayons de couleurs et feutre fin.",
                 Zoom_Illustrations_05 : "Recherches sur le thème du grizzli. <br /> Techniques : Feutres fins, rotring.",
                 Zoom_Illustrations_06 : "Projet personnel d'illustration. <br /> Techniques : Feutres fins, rotring.",
                 Zoom_Illustrations_07 : "Kookaburra. <br /> Techniques : Aquarelle.",
                 Zoom_Illustrations_08 : "Proposition d'illustrations  <br /> pour horoscope. <br /> Techniques : Crayon de papier <br /> et collage.",
-                Zoom_Illustrations_09 : "Poulpe  <br /> Techniques diverses :  <br /> Aquarelle et feutres fins.",
-                Zoom_Illustrations_10 : "Surfeur  <br /> Techniques diverses :  <br /> Crayon de papier et crayons de couleurs.",
+                Zoom_Illustrations_09 : "Octopode  <br /> Techniques :  <br /> Aquarelle et feutres fins.",
+                Zoom_Illustrations_10 : "Surfeur  <br /> Techniques :  <br /> Crayon de papier et crayons de couleurs.",
+                Zoom_Illustrations_11 : "Illustration pour le livre  <br /> de Marie-Claude Bossière: <br /> Le bébé au temps du numérique.",
+                Zoom_Illustrations_12 : "Illustration pour le livre  <br /> de Marie-Claude Bossière: <br /> Le bébé au temps du numérique.",
             },
-            nombre: 10,
+            nombre: 12,
         }
     },
      Produit: {
